@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Artistas</title>
+</head>
+<body>
+
+<h1>🎤 Lista de Artistas</h1>
+
+{% for artist in artists %}
+    <p>{{ artist.name }} - {{ artist.nationality }}</p>
+{% endfor %}
+
+</body>
+</html>
