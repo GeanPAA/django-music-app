@@ -10,6 +10,15 @@ Cada canción está asociada a un artista, permitiendo visualizar la relación e
 - **SQLite** → base de datos utilizada por defecto en Django  
 - **HTML** → estructura de las páginas web   
 - **Git & GitHub** → control de versiones y repositorio del proyecto  
+- **Bootstrap** → estilos para mejorar la interfaz
+
+## ⚙️ Funcionalidades
+
+- Registro de artistas
+- Registro de canciones
+- Relación entre canciones y artistas
+- Visualización de canciones
+- Visualización de artistas
 
 ## 👨‍💻 Autor
 
@@ -35,7 +44,7 @@ Gean Pierre Ayala Andia
 ### Lista Artistas Html
 ![TyH](imgs/mejora1.png)
 
-### Lista Autores Html
+### Lista Artistas Html
 ![TyH](imgs/mejora2.png)
 
 ### Super Usuario (admin)
@@ -44,5 +53,8 @@ Gean Pierre Ayala Andia
 ### Lista de Canciones
 ![Canciones Lista](imgs/can.png)
 
-### Lista de Autores
+### Lista de Artistas
 ![Autores Lista](imgs/gean.png)
+
+### Link Video en YouTube
+https://youtu.be/wHLhtrpNBd8?si=NvOqtFKo8UHLE124
