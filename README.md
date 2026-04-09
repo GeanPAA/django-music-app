@@ -57,4 +57,9 @@ Gean Pierre Ayala Andia
 ![Autores Lista](imgs/gean.png)
 
 ### Link Video en YouTube
-https://youtu.be/wHLhtrpNBd8?si=NvOqtFKo8UHLE124
+
+### Parte Web
+https://youtu.be/iRm-5QSLwAA?si=0ir6-YnhUbb0tsOv
+
+### Parte De VsCode
+https://youtu.be/wHLhtrpNBd8?si=Ml7A-KBs5dDjj4ZN
