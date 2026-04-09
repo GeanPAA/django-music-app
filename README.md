@@ -32,11 +32,11 @@ Gean Pierre Ayala Andia
 ### Urls
 ![Urls](imgs/urls.png)
 
-### Templates y Html 1
-![TyH](imgs/html1.png)
+### Lista Artistas Html
+![TyH](imgs/mejora1.png)
 
-### Templates y Html 2
-![TyH](imgs/html2.png)
+### Lista Autores Html
+![TyH](imgs/mejora2.png)
 
 ### Super Usuario (admin)
 ![Entrar Como Admin](imgs/admin1.png)
