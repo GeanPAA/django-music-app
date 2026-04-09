@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Artistas</title>
+    <title>Canciones</title>
     <style>
         body {
             font-family: Arial;
-            background: #020617;
+            background: #0f172a;
             color: white;
             text-align: center;
         }
@@ -18,24 +18,26 @@
             background: #1e293b;
             margin: 15px auto;
             padding: 15px;
-            width: 50%;
+            width: 60%;
             border-radius: 10px;
             box-shadow: 0px 0px 10px rgba(0,0,0,0.5);
         }
 
-        .nation {
-            color: #22c55e;
+        .artist {
+            color: #38bdf8;
         }
     </style>
 </head>
 <body>
 
-<h1>🎤 Lista de Artistas</h1>
+<h1>🎵 Lista de Canciones</h1>
 
-{% for artist in artists %}
+{% for song in songs %}
     <div class="card">
-        <h2>{{ artist.name }}</h2>
-        <p class="nation">Nacionalidad: {{ artist.nationality }}</p>
+        <h2>{{ song.title }}</h2>
+        <p class="artist">Artista: {{ song.artist.name }}</p>
+        <p>Género: {{ song.genre }}</p>
+        <p>Duración: {{ song.duration }} seg</p>
     </div>
 {% endfor %}
 
