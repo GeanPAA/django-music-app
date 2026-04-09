@@ -1,0 +1,16 @@
+# entorno virtual
+venv/
+
+# python
+__pycache__/
+*.pyc
+
+# base de datos
+db.sqlite3
+
+# archivos de sistema
+.DS_Store
+Thumbs.db
+
+# VS Code (opcional)
+.vscode/
